@@ -8,12 +8,8 @@ each row contains increasing numbers, starting from 1 up to the row number. The 
 For example, if you enter `x = 5`, the output will be:
 
 1
-
 12
-
 123
-
 1234
-
 12345
 
