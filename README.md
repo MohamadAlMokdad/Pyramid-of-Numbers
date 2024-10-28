@@ -6,6 +6,10 @@ each row contains increasing numbers, starting from 1 up to the row number. The 
 ## 📋 Example Output
 
 For example, if you enter `x = 5`, the output will be:
-Enter x: 5 1 1 2 1 2 3 1 2 3 4 1 2 3 4 5
 
+1
+12
+123
+1234
+12345
 
